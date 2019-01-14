@@ -1,8 +1,11 @@
-#Oriented-Object Program Introduction Note 
+#Object-Oriented Programming Introduction Note  
+
 Original Tutorial from (__*黄浩杰*__ )  
 Link: [https://www.youtube.com/watch?v=myuSbEHFLBA](https://www.youtube.com/watch?v=myuSbEHFLBA)  
-`That's not me, I'm just taking the note.`
-###1. What is the Class and Object?
+`That's not me, I'm just taking the note.`  
+
+
+### What is the Class and Object?
 ___
 Example (a) - __SEAT__
 
